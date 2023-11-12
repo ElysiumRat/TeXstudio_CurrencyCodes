@@ -1,7 +1,7 @@
 {
     "abbrev": "",
     "description": [
-        ""
+        "A macro for looking up the name and ISO code for currencies of countries, and inserting said code into the current document."
     ],
     "formatVersion": 1,
     "menu": "",
